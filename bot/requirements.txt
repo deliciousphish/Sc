@@ -1,7 +1,0 @@
-flask
-pyaes
-pyperclip
-requests
-phonenumbers
-twilio
-pyTelegramBotAPI
